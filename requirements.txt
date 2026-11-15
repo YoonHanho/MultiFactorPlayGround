@@ -1,0 +1,10 @@
+MultiFactor>=0.3.5
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
+numpy>=1.24.0
+finance-datareader>=0.9.50
+yfinance>=0.2.30
+seaborn>=0.13.0
+ipywidgets>=8.1.0
+scipy>=1.11.0

@@ -1,0 +1,26 @@
+﻿scode,sname,sector,marcap,mom_price,mom_vol,PER,PBR,revenue_rate,oper_income_rate,net_income_rate,ROE
+NVDA,NVIDIA,Information Technology,3500000,185.4,195.0,55.4,42.5,122.5,174.2,168.0,88.5
+AAPL,Apple,Information Technology,3450000,24.8,112.5,33.2,48.0,6.2,9.8,8.5,154.0
+MSFT,Microsoft,Information Technology,3200000,18.4,105.8,34.8,11.8,15.4,18.9,16.5,38.2
+AMZN,Amazon,Consumer Discretionary,2150000,42.5,128.4,42.1,8.4,12.8,54.2,48.6,21.4
+GOOGL,Alphabet (Google),Communication Services,2100000,28.9,118.0,23.5,6.5,14.1,28.5,32.4,31.5
+META,Meta Platforms,Communication Services,1450000,68.2,142.1,26.8,8.8,22.4,42.1,38.5,34.8
+TSLA,Tesla,Consumer Discretionary,1050000,45.1,164.2,84.5,14.2,8.4,12.5,9.4,18.5
+AVGO,Broadcom,Information Technology,850000,74.2,138.5,36.5,12.4,44.5,62.0,58.2,24.8
+BRK-B,Berkshire Hathaway,Financials,980000,26.4,95.4,19.8,1.62,7.5,14.2,12.8,12.4
+JPM,JPMorgan Chase,Financials,680000,38.6,122.4,12.4,1.85,9.8,16.5,14.2,17.5
+LLY,Eli Lilly,Health Care,780000,54.8,131.0,64.2,38.5,38.4,68.2,62.5,62.1
+WMT,Walmart,Consumer Staples,690000,52.4,116.8,32.4,7.2,5.8,9.2,8.4,21.2
+XOM,ExxonMobil,Energy,480000,14.2,92.4,14.1,2.1,2.1,4.5,3.8,16.4
+UNH,UnitedHealth Group,Health Care,520000,8.5,89.2,24.8,5.4,9.2,11.4,10.2,24.5
+MA,Mastercard,Financials,470000,28.2,104.5,35.4,68.0,12.8,16.2,15.4,182.0
+COST,Costco Wholesale,Consumer Staples,410000,48.6,119.5,52.1,15.8,8.9,12.8,11.6,29.5
+HD,Home Depot,Consumer Discretionary,390000,22.4,98.4,26.5,320.0,4.2,6.8,5.9,1150.0
+PG,Procter & Gamble,Consumer Staples,395000,12.1,88.5,27.2,8.4,3.5,5.8,5.1,32.8
+AMD,Advanced Micro Devices,Information Technology,230000,15.4,135.0,48.5,3.8,18.2,45.0,38.0,6.8
+CRM,Salesforce,Information Technology,310000,32.5,112.0,38.2,4.9,11.2,24.5,22.0,12.8
+MU,Micron Technology,Information Technology,125000,62.4,155.0,18.5,2.4,82.5,210.0,195.0,14.2
+QCOM,Qualcomm,Information Technology,185000,24.2,115.0,17.5,6.8,14.5,22.0,19.5,42.0
+TXN,Texas Instruments,Information Technology,175000,18.5,96.0,32.0,10.5,2.5,4.8,3.9,31.0
+BAC,Bank of America,Financials,350000,34.5,120.0,14.2,1.35,6.8,11.2,10.1,10.5
+CAT,Caterpillar,Industrials,195000,41.2,118.0,18.5,8.9,4.8,14.5,12.8,54.0
